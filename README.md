@@ -92,7 +92,7 @@ ORDER BY pro.brand, visitas DESC;
 
 * A maior concentração de visitas está em modelos das marcas `**FIAT**` e `**CHEVROLET**`.
 
-* Veículos com **mais de 2 anos de idade** representam a maior parcela das buscas (“seminovosdant”).
+* Veículos com **mais de 2 anos de idade** representam a maior parcela das buscas (“seminovos”).
 
 * Há maior taxa de engajamento de clientes do gênero **feminino**, embora o **ticket médio masculino seja superior**.
 
@@ -106,7 +106,12 @@ Larissa Vital Caetano Pareira
 
 📍 Projeto desenvolvido como parte de estudos em SQL e Análise de Dados.
 
-🔗 **Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/larissavital/)!**
+## 📚 Documentação Complementar
+
+- [🖼️ Prints de Resultados](docs/prints/)
+
+
+### 🔗 **Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/larissavital/)!**
 
 ## 🧩 Base do Projeto
 
